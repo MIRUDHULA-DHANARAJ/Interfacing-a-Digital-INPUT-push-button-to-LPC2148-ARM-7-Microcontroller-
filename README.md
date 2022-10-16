@@ -146,10 +146,12 @@ int main ()
 ~~~
 ### Output :
 ## Before Stimulation:
-![Screenshot (5)](https://user-images.githubusercontent.com/94828147/196039021-04d348b3-7fd2-433a-9132-9b8695f484f7.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/94828147/196039159-ac1092d3-35c4-4525-820d-f932af96c5c2.png)
+
 
 ## After Stimulation:
-![Screenshot (4)](https://user-images.githubusercontent.com/94828147/196039049-c8ebb8d8-f570-43ff-87e3-5eb85bbe4583.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/94828147/196039185-cfded33c-cd83-427f-b887-91c7ac3abc36.png)
+
 
 
 
